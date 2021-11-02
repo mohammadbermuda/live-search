@@ -1,0 +1,31 @@
+[
+    {
+        "name" : "mohammad "  ,
+        "shortname" : "pursarvghad" ,
+        "bio" : " Lorem ipsum, dolor quibusdam porro libero nihil tenetur illum animi perspiciatis voluptates neque ut nesciunt culpa blanditiis, maiores natus nemo accusamus laborum hic?",
+        "img" :"mohammad.jpg"
+
+    } ,
+    {
+        "name" :"ali" ,
+        "shortname" :"amiri",
+        "bio" :" Lorem ipsum, dolor  quibusdam porro libero nihil tenetur illum animi perspiciatis voluptates neque ut nesciunt culpa blanditiis, maiores natus nemo accusamus laborum hic?",
+        "img" :"ali.jpg"
+    } ,
+     {
+        "name" : "zahra" ,
+        "shortname" : "kamali" ,
+        "bio" : " Lorem ipsum, dolor quibusdam porro libero nihil tenetur illum animi perspiciatis voluptates neque ut nesciunt culpa blanditiis, maiores natus nemo accusamus laborum hic?",
+        "img" :"zahra.jpg"
+
+
+     }
+     ,
+      {
+          "name" : "reza" ,
+          "shortname" :"hoseini" ,
+          "bio" :" Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore corrupti quibusdam porro libero nihil tenetur illum animi perspiciatis voluptates neque ut nesciunt culpa blanditiis, maiores natus nemo accusamus laborum hic?",
+          "img" :"reza.jpg"
+      }
+    
+]
